@@ -26,7 +26,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/m4rkyu#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/m4rkyu#gh-dark-mode-only)
 
-[![trophy](https://github-profile-trophy.vercel.app/?zhenxiao-yu=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhenxiaoyu)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Languages and Tools:
 
