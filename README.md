@@ -1,11 +1,13 @@
 # Hi there, I'm Mark 👨‍💻
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 ## I'm a Developer, Student, and Artist
 
 - 🔭 I’m currently studying Software Engineering @ [Western University][uwo]
 - 🥅 2022 Goals: Deploy my first dapp
-- 👯 I’m looking to collaborate with other developers
-- 🧠 I’m currently learning Spring Cloud, Tailwind CSS and MongoDB
+- 🚀 Always ready to collaborate for Dev Experiments
+- 🧠 Exploring Spring Cloud, Tailwind CSS and MongoDB
 
 ### Connect with me:
 
