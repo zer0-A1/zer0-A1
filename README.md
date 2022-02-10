@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mark Yu</h1>
+<h3 align="center">
+  Welcome to Mark Yu's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 ![](https://github.com/zhenxiao-yu/zhenxiao-yu/blob/master/img/header_.png)
 
@@ -11,22 +14,6 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCUY09EUdbMoyDeWrMBYcUZQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCUY09EUdbMoyDeWrMBYcUZQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/codepen-light.svg)](https://codepen.io/mark-yu#gh-light-mode-only)
-[![website](./img/codepen-dark.svg)](https:///mark-yu#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/incodeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/m4rkyu#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/m4rkyu#gh-dark-mode-only)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenxiaoyu)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Languages and Tools:
 
