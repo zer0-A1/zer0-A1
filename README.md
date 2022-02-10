@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student+%40UWO;Fullstack+Web+Developer;Experienced+Artist%2F+Designer;Interested+In+Web3+%26+Game+Dev&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/zhenxiao-yu"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student+%40UWO;Fullstack+Web+Developer;Experienced+Artist%2F+Designer;Interested+In+Web3+%26+Game+Dev&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 ![](https://github.com/zhenxiao-yu/zhenxiao-yu/blob/master/img/header_.png)
@@ -22,7 +22,7 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="">
+  <a href="https://github.com/zhenxiao-yu">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark Yu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zhenxiao-yu&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
