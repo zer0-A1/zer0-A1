@@ -18,7 +18,7 @@
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCUY09EUdbMoyDeWrMBYcUZQ#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/codepen-light.svg)](https://codepen.io/mark-yu#gh-light-mode-only)
-[![website](./img/codepen-dark.svg)](https://codepen.io/mark-yu#gh-dark-mode-only)
+[![website](./img/codepen-dark.svg)](https:///mark-yu#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/incodeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
@@ -35,13 +35,82 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-</details>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-</details>
+---
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1554-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 28 Contributions in the Year 2022
+ > 
+> 📦 159.7 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 20 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
+🌆 Daytime    154 commits    ██████████░░░░░░░░░░░░░░░   40.42% 
+🌃 Evening    123 commits    ████████░░░░░░░░░░░░░░░░░   32.28% 
+🌙 Night      53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.91%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.14% 
+Tuesday      35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.19% 
+Wednesday    75 commits     █████░░░░░░░░░░░░░░░░░░░░   19.69% 
+Thursday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
+Friday       53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.91% 
+Saturday     54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
+Sunday       84 commits     █████░░░░░░░░░░░░░░░░░░░░   22.05%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               9 hrs 1 min         ████████████████████░░░░░   82.36% 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.96% 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.04% 
+GitIgnore file           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96% 
+Shell Script             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
+
+🔥 Editors: 
+WebStorm                 10 hrs 44 mins      ████████████████████████░   98.02% 
+DataGrip                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62% 
+PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+
+💻 Operating System: 
+Windows                  9 hrs 29 mins       █████████████████████░░░░   86.64% 
+Mac                      1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.36%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   26.19% 
+Vue                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
 
 [uwo]: https://www.uwo.ca/
 [youtube]: https://www.youtube.com/channel/UCUY09EUdbMoyDeWrMBYcUZQ
