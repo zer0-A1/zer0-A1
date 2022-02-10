@@ -10,7 +10,7 @@
 
 ![](https://github.com/zhenxiao-yu/zhenxiao-yu/blob/master/img/header_.png)
 
-## Bio
+## Bio 👽
 
 - :mortar_board: I’m currently studying Software Engineering @[Western University][uwo]
 - 🥅 2022 Goals: Deploy my first dapp
@@ -51,7 +51,7 @@
 </p>
 
 
-## 🔥 Streak stats
+##  Streak stats 🔥
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
@@ -70,13 +70,15 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenxiao-yu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <a href="https://github.com/zhenxiao-yu"><img alt="Mark's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zhenxiao-yu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</details>
 
 <br />
 <br />
-
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 [uwo]: https://www.uwo.ca/
