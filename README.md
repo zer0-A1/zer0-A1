@@ -1,10 +1,11 @@
 # Hi there, I'm Mark 👨‍💻
 
 
-## I'm a Developer, Student, and Artist in Ontario
-- 🧠 I’m currently learning Spring Cloud, Tailwind CSS and MongoDB
+## I'm a Developer, Student, and Artist
+- 🔭 I’m currently studying Software Engineering @ [Western University][uwo]
 - 🥅 2022 Goals: Deploy my first dapp
 - 👯 I’m looking to collaborate with other developers
+- 🧠 I’m currently learning Spring Cloud, Tailwind CSS and MongoDB
 
 ### Connect with me:
 
@@ -17,7 +18,7 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/incodeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
