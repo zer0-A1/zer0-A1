@@ -1,11 +1,10 @@
-# Hi there, I'm Mark 👋 
+# Hi there, I'm Mark 👨‍💻
 
 
-## I'm a Developer, Student, and Artist!!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
+## I'm a Developer, Student, and Artist in Ontario
+- 🧠 I’m currently learning Spring Cloud, Tailwind CSS and MongoDB
+- 🥅 2022 Goals: Deploy my first dapp
+- 👯 I’m looking to collaborate with other developers
 
 ### Connect with me:
 
@@ -50,21 +49,11 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/codeSTACKr/create-10k-nft-collection/issues/74) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-2. 🗣 Commented on [#73](https://github.com/codeSTACKr/create-10k-nft-collection/issues/73) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-3. 🗣 Commented on [#71](https://github.com/codeSTACKr/create-10k-nft-collection/issues/71) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-4. 🗣 Commented on [#69](https://github.com/codeSTACKr/create-10k-nft-collection/issues/69) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-5. ❗️ Closed issue [#69](https://github.com/codeSTACKr/create-10k-nft-collection/issues/69) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-<!--END_SECTION:activity-->
-
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="zhenxiao-yu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zhenxiao-yu&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
