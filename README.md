@@ -46,11 +46,9 @@
 <a href= https://github.com/?tab=repositories&q=&type=&language=stack-overflow&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/stack-overflow.svg'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=nginx&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'> </a>
-
-
 </p>
 
-
+<br>
 ##  Streak stats 🔥
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -60,6 +58,7 @@
   </a>
 </p>
 
+<br>
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
