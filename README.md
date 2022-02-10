@@ -2,6 +2,8 @@
 
 ![](https://github.com/zhenxiao-yu/zhenxiao-yu/blob/master/img/header_.png)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhenxiao-yu" alt="zhenxiao-yu" /></a> </p>
+
 ## I'm a Developer, Student, and Artist
 
 - 🔭 I’m currently studying Software Engineering @ [Western University][uwo]
