@@ -1,7 +1,7 @@
 # Hi there, I'm Mark 👨‍💻
 
-
 ## I'm a Developer, Student, and Artist
+
 - 🔭 I’m currently studying Software Engineering @ [Western University][uwo]
 - 🥅 2022 Goals: Deploy my first dapp
 - 👯 I’m looking to collaborate with other developers
@@ -12,8 +12,8 @@
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCUY09EUdbMoyDeWrMBYcUZQ#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCUY09EUdbMoyDeWrMBYcUZQ#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
@@ -46,7 +46,6 @@
 
 <br />
 <br />
-
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
