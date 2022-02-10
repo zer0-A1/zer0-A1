@@ -28,7 +28,18 @@
 </p>
 
 
-### Connect with me:
+## 📊 Github stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/zhenxiao-yu"><img alt="Mark Yu's Github Stats" src="https://zhenxiaoyu-github-readme-stats.vercel.app/api/?username=zhenxiao-yu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mark Yu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenxiaoyu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</details>
+
+
 
 ### Languages and Tools:
 
@@ -37,90 +48,7 @@
 <br />
 <br />
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
----
-
-<!--START_SECTION:zhenxiao-yu-->
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1554-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data**
-
-> 🏆 28 Contributions in the Year 2022
->
-> 📦 159.7 kB Used in GitHub's Storage
->
-> 💼 Opted to Hire
->
-> 📜 14 Public Repositories
->
-> 🔑 20 Private Repositories
->
-> **I'm an Early 🐤**
-
-```text
-🌞 Morning    51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.39%
-🌆 Daytime    154 commits    ██████████░░░░░░░░░░░░░░░   40.42%
-🌃 Evening    123 commits    ████████░░░░░░░░░░░░░░░░░   32.28%
-🌙 Night      53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.91%
-
-```
-
-📅 **I'm Most Productive on Sunday**
-
-```text
-Monday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.14%
-Tuesday      35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.19%
-Wednesday    75 commits     █████░░░░░░░░░░░░░░░░░░░░   19.69%
-Thursday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86%
-Friday       53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.91%
-Saturday     54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17%
-Sunday       84 commits     █████░░░░░░░░░░░░░░░░░░░░   22.05%
-
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages:
-JavaScript               9 hrs 1 min         ████████████████████░░░░░   82.36%
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.96%
-Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.04%
-GitIgnore file           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
-Shell Script             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
-
-🔥 Editors:
-WebStorm                 10 hrs 44 mins      ████████████████████████░   98.02%
-DataGrip                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62%
-PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
-
-💻 Operating System:
-Windows                  9 hrs 29 mins       █████████████████████░░░░   86.64%
-Mac                      1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.36%
-
-```
-
-**I Mostly Code in JavaScript**
-
-```text
-JavaScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   26.19%
-Vue                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05%
-Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
-Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
 
 [uwo]: https://www.uwo.ca/
 [youtube]: https://www.youtube.com/channel/UCUY09EUdbMoyDeWrMBYcUZQ
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
