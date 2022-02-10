@@ -75,8 +75,9 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
+<p align="center">
 <a href="https://github.com/zhenxiao-yu"><img alt="Mark's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zhenxiao-yu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  </p>
 </details>
 
 <br />
