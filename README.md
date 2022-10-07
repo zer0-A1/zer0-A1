@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/zhenxiao-yu"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student+%40UWO;Fullstack+Web+Developer;Experienced+In+Art%2F+Design;Interested+In+Web3+%26+Game+Dev&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/zhenxiao-yu">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenxiao-yu&layout=compact)](https://github.com/zhenxiao-yu/github-readme-stats)</a>
 </p>
 
 ![](https://github.com/zhenxiao-yu/zhenxiao-yu/blob/master/img/header_.png)
