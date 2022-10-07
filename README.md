@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/zhenxiao-yu">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenxiao-yu&layout=compact)](https://github.com/zhenxiao-yu/github-readme-stats)</a>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenxiao-yu&layout=compact)](https://github.com/zhenxiao-yu/github-readme-stats)
 </p>
 
 ![](https://github.com/zhenxiao-yu/zhenxiao-yu/blob/master/img/header_.png)
