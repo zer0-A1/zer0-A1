@@ -62,10 +62,7 @@
 <a href= https://github.com/?tab=repositories&q=&type=&language=dart&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a>
 </p>
 
-<br>
-
 ##  Streak stats 🔥
-
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/zhenxiao-yu">
