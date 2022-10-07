@@ -3,13 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-
-<p align="center">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenxiao-yu&layout=compact)](https://github.com/zhenxiao-yu/github-readme-stats)
-</p>
-
-![](https://github.com/zhenxiao-yu/zhenxiao-yu/blob/master/img/header_.png)
-
 ## Bio 👽
 
 - :mortar_board: I’m currently studying Software Engineering @[Western University][uwo]
@@ -92,10 +85,5 @@
   </p>
 </details>
 
-<br />
-<br />
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
 
 [uwo]: https://www.uwo.ca/
