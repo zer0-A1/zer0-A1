@@ -6,8 +6,8 @@
 ## Bio 👽
 
 - :mortar_board: I’m currently studying Software Engineering @[Western University][uwo]
-- 💻 Currently on 16-month intership at JD POWER
-- 🚀 Open to collborate on projects (Email Me)
+- 💻 Just Completed A 16-month internship at JD POWER from May 2022 - August 2023 
+- 🚀 Open to collaborate on projects (Email)
 - 🧠 Learning Spring Cloud, Tailwind CSS and MongoDB
 - :pushpin: London, Ontario
 
@@ -76,9 +76,6 @@
  
   <br/>
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<p align="center">
-<a href="https://github.com/zhenxiao-yu"><img alt="Mark's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zhenxiao-yu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  </p>
 </details>
 
 
