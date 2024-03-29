@@ -79,10 +79,10 @@
 </details>
 
 <details> 
-  <summary>🎵 What's I'm Listening To </summary>
+  <summary>🌟 My Proejcts</summary>
   <br/>
   <p align="center">
-     [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317xma3mkahx2sgwksrv72bvlywm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317xma3mkahx2sgwksrv72bvlywm&redirect=true)
+     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhenxiao-yu&repo=repo_name)](https://github.com/zhenxiao-yu/repo_name) 
   </p>
   <br/>
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
