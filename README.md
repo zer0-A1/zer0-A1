@@ -111,6 +111,15 @@ Languages and Tools:
 
 ![Mark's Graph](https://github-readme-activity-graph.vercel.app/graph?username=zhenxiao-yu&custom_title=Mark's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+## Github Achievements  
+![](https://github-profile-trophy.vercel.app/?username=zhenxiao-yu&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+
 </div>
 
 
