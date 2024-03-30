@@ -1,94 +1,117 @@
 <h1 align="center">
-  Welcome to Mark Yu's profile!
+  Hello, I'm Mark Yu
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://komarev.com/ghpvc/?username=zhenxiao-yu&label=Profile%20views&color=0e75b6&style=flat" alt="zhenxiao-yu" /> 
 </h1>
 
-## Bio 👽
 
-- :mortar_board: I’m currently studying Software Engineering @[Western University][uwo]
-- 💻 Just Completed A 16-month internship at JD POWER from May 2022 - August 2023 
-- 🚀 Open to collaborate on projects (Email)
-- 🧠 Learning Spring Cloud, Tailwind CSS and MongoDB
+<h2 align="center">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjN3ZjMyYng1ZTVudWhsZWlkY294YXVnb2F4eXlma2p6emNpejJpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/St36ELCghkgvrxTXoG/giphy.gif" width="50">
+Software Engineer Graduating from Western University  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVieDJxZGQwdWI1emZ5OW5veXM3bHJma3A5NXJvZnZjZzRpeXdydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RkidAYW7PZgHFCT7GB/giphy-downsized-large.gif" width="50">
+</h2>
+
+<h2 align="left"><img src="https://media.tenor.com/Wg9fW_XEft0AAAAM/pout-christian-bale.gif" width="28"> About Me:</h2>
+
+- :mortar_board: Class of 2024 @[Western University][uwo]
+- 💻 Completed A 16-month internship at JD POWER from May 2022 - August 2023
+- 🌱 I’m currently learning **Devops, Raspberry Pi and Elasticsearch**
 - :pushpin: London, Ontario
+- 🚀Ask me about **Java, React, Unity2D and NodeJS**
+- 📫 How to reach me **markyu0615@gamil.com**
+
+<br>
+Listening To: 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317xma3mkahx2sgwksrv72bvlywm&cover_image=false&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
-## Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h2 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18> 
+Languages and Tools: 
+</h2>
 
-<p align="center">
-<a href= https://github.com/?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=unreal&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unreal.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=blender&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=bulma&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bulma.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=chartjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/chartjs.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=postman&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=webpack&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=unity&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=framer&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/framer.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=nginx&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=vuejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=redux&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=d3js&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/d3js.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=kaggle&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kaggle.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=jenkins&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=redis&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=flutter&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=jest&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=dart&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a>
-</p>
-
-##  Streak stats 🔥
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/zhenxiao-yu">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark Yu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zhenxiao-yu&theme=monokai-metallian&hide_border=true"/>
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,java,nodejs,py,spring,fastapi,nestjs,kafka,solidity" />
   </a>
 </p>
 
-## 📊 Github stats
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui,vite,bootstrap,yarn,npm,jquery,css,html,vue,sass,vuetify" />
+  </a>
+</p>
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,cassandra,redis,dynamodb" />
+  </a>
+</p>
+
+- DevOps & CI/CD
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,vercel,gitlab,gcp,firebase,heroku,kubernetes,jenkins,nginx,netlify,githubactions" />
+  </a>
+</p>
+
+- Game Dev
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,unreal,blender,cpp,cs" />
+  </a>
+</p>
+
+- Other Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,grafana,arch,figma,tensorflow,webstorm,ubuntu,xd,idea,md,regex,vscode,bash,postman,linux" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h2 align="left">🏆 My Trophies: </h2>
+
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjYxeWVhOHRlbDJ4eTZuYTBramdwY2pwd3Azd2F3b2RweHUzb2wzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Exc9GvjitUCPczepZe/giphy.gif"  width="100px" height="100px"></p>			
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=zhenxiao-yu&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews"> </div>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=zhenxiao-yu&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+ </div>
+ <br><br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h2 align="left">📈 GitHub Stats:</h2>
+<div align="center">
+
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhenxiao-yu&theme=radical" alt="Mark's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/alsiam"><img alt="Mark Yu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=zhenxiao-yu&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Mark's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=zhenxiao-yu&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
-  <p align="center">
-    <a href="https://github.com/zhenxiao-yu"><img alt="Mark's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=zhenxiao-yu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenxiao-yu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-    </p>
+</a>
 
-  <br/>
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-</details>
+<br>
+<h2 align="left">🕰️ My Activity:</h2>
 
-<details> 
-  <summary>🌟 My Proejcts</summary>
-  <br/>
-  <p align="center">
-     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhenxiao-yu&repo=repo_name)](https://github.com/zhenxiao-yu/repo_name) 
-  </p>
-  <br/>
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-</details>
+![Mark's Graph](https://github-readme-activity-graph.vercel.app/graph?username=zhenxiao-yu&custom_title=Mark's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-
+</div>
 
 
 
