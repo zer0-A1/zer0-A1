@@ -8,7 +8,7 @@
 <h2 align="center">
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjN3ZjMyYng1ZTVudWhsZWlkY294YXVnb2F4eXlma2p6emNpejJpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/St36ELCghkgvrxTXoG/giphy.gif" width="50">
 Software Engineer Graduating from Western University  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVieDJxZGQwdWI1emZ5OW5veXM3bHJma3A5NXJvZnZjZzRpeXdydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RkidAYW7PZgHFCT7GB/giphy-downsized-large.gif" width="50">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJtcWV3ZzFuNnd5Znp6cGR3N2pkbjk0dHR5dTNvd3ZvMHZtOXRwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RkidAYW7PZgHFCT7GB/giphy-downsized-large.gif" width="50">
 </h2>
 
 <h2 align="left"><img src="https://media.tenor.com/Wg9fW_XEft0AAAAM/pout-christian-bale.gif" width="28"> About Me:</h2>
