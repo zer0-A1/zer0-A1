@@ -5,7 +5,7 @@
 </h1>
 
 
-<h2 align="center">
+<h4 align="center">
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjN3ZjMyYng1ZTVudWhsZWlkY294YXVnb2F4eXlma2p6emNpejJpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/St36ELCghkgvrxTXoG/giphy.gif" width="50">
 Software Engineer Graduating from Western University  
   <img src="https://media2.giphy.com/media/kz6JwjqYxXKSNdjxHb/giphy.gif?cid=6c09b952si9z3tntpm1mha7yb34bqzd2v70pv7f2ezb3nvy1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="50">
