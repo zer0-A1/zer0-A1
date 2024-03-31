@@ -16,7 +16,7 @@ Software Engineer from Western University
 - :mortar_board: Class of 2024 @[Western University][uwo]
 - 💻 Completed A 16-month internship at JD POWER from May 2022 - August 2023
 - 🌱 I’m currently learning **Devops, Raspberry Pi and Elasticsearch**
-- :pushpin: London, Ontario
+- :pushpin: 🧧 > 🌾> 🌆
 - 🚀Ask me about **Java, React, Unity2D and NodeJS**
 - 📫 How to reach me **markyu0615@gamil.com**
 
