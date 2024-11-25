@@ -4,11 +4,12 @@
   <img src="https://komarev.com/ghpvc/?username=zhenxiao-yu&label=My%20Profile%20Views&color=0e75b6&style=flat" alt="zhenxiao-yu" /> 
 </h1>
 
-<h4 align="center">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjN3ZjMyYng1ZTVudWhsZWlkY294YXVnb2F4eXlma2p6emNpejJpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/St36ELCghkgvrxTXoG/giphy.gif" width="50">
-Software Engineer from Western University  
-  <img src="https://media2.giphy.com/media/kz6JwjqYxXKSNdjxHb/giphy.gif?cid=6c09b952si9z3tntpm1mha7yb34bqzd2v70pv7f2ezb3nvy1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="50">
-</h4>
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=317xma3mkahx2sgwksrv72bvlywm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317xma3mkahx2sgwksrv72bvlywm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=8b37c3&bar_color_cover=false" alt="Spotify Now Playing">
+  </a>
+</div>
+
 
 <details>
 <summary><h2 align="left"><img src="https://media.tenor.com/Wg9fW_XEft0AAAAM/pout-christian-bale.gif" width="28"> About Me</h2></summary>
