@@ -5,6 +5,7 @@
 </h1>
 
 <div align="center">
+   <h5>🎵 Listening to...</h2>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=317xma3mkahx2sgwksrv72bvlywm&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317xma3mkahx2sgwksrv72bvlywm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=8b37c3&bar_color_cover=false" alt="Spotify Now Playing">
   </a>
