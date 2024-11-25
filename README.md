@@ -14,9 +14,8 @@ Software Engineer from Western University
 <summary><h2 align="left"><img src="https://media.tenor.com/Wg9fW_XEft0AAAAM/pout-christian-bale.gif" width="28"> About Me</h2></summary>
 
 - 🎓 Class of 2024 @[Western University][uwo]
-- 💻 Completed a 16-month internship at JD POWER from May 2022 - August 2023
 - 🌱 Currently learning **DevOps, Raspberry Pi, and Elasticsearch**
-- 📌 🧧 > 🌾 > 🌆
+- 📌 🧧 CGQ > 🌾YQR > 🌆 YYZ
 - 🚀 Ask me about **Java, React, Unity2D, and NodeJS**
 - 📫 How to reach me: **markyu0615@gmail.com**
 
@@ -108,3 +107,7 @@ Software Engineer from Western University
 </div>
 
 </details>
+
+---
+
+[uwo]: https://www.uwo.ca/
