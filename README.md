@@ -112,6 +112,8 @@ Languages and Tools:
     alt="example" />
 </p>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317xma3mkahx2sgwksrv72bvlywm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317xma3mkahx2sgwksrv72bvlywm&redirect=true)
+
 ## Github Achievements  
 ![](https://github-profile-trophy.vercel.app/?username=zhenxiao-yu&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
