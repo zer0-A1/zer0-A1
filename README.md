@@ -1,3 +1,7 @@
+ <p align="center">
+    <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+      alt="example" />
+  </p>
 <h1 align="center">
   Hello, I'm Mark Yu
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -87,25 +91,20 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/alsiam">
+    <a href="https://github.com/zhenxiao-yu">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhenxiao-yu&theme=radical" alt="Mark's GitHub Contribution"/>
     </a>
   </p>
 
   <a> 
-    <a href="https://github.com/alsiam"><img alt="Mark Yu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=zhenxiao-yu&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-    <a href="https://github.com/alsiam"><img alt="Mark's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=zhenxiao-yu&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/zhenxiao-yu"><img alt="Mark Yu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=zhenxiao-yu&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/zhenxiao-yu"><img alt="Mark's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=zhenxiao-yu&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   </a>
 
   <br>
   <h2 align="left">🕰️ My Activity This Month:</h2>
 
   ![Mark's Graph](https://github-readme-activity-graph.vercel.app/graph?username=zhenxiao-yu&custom_title=Mark's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-      alt="example" />
-  </p>
 </div>
 
 </details>
