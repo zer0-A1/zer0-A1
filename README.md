@@ -19,11 +19,13 @@
 <details>
 <summary><h2 align="left"><img src="https://media.tenor.com/Wg9fW_XEft0AAAAM/pout-christian-bale.gif" width="28"> About Me</h2></summary>
 
-- 🎓 Class of 2024 @[Western University][uwo]
-- 🌱 Currently learning **DevOps, Raspberry Pi, and Elasticsearch**
-- 📌 🧧 CGQ > 🌾YQR > 🌆 YYZ
+- 🎓 Class of 2024 @[Western University](https://www.uwo.ca)
+- 🌱 Currently learning **Rust, SAP BTP, and Azure**
+- 📌 🧧 CGQ > 🌾 YQR > 🌆 YYZ
 - 🚀 Ask me about **Java, React, Unity2D, and NodeJS**
 - 📫 How to reach me: **markyu0615@gmail.com**
+- 🌐 Check out my website: [m4rkyu.com](https://m4rkyu.com)
+
 
 </details>
 
@@ -40,7 +42,7 @@
 - **Frontend**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui,vite,bootstrap,yarn,npm,jquery,css,html,vue,sass,vuetify" />
+      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,threejs,redux,tailwind,materialui,vite,bootstrap,yarn,npm,jquery,css,html,vue,sass,vuetify,babel" />
     </a>
   </p>
 
@@ -54,7 +56,7 @@
 - **DevOps & CI/CD**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,vercel,gitlab,gcp,firebase,heroku,kubernetes,jenkins,nginx,netlify,githubactions" />
+      <img src="https://skillicons.dev/icons?i=docker,vercel,azure,gitlab,gcp,firebase,heroku,kubernetes,jenkins,nginx,netlify,githubactions" />
     </a>
   </p>
 
@@ -68,7 +70,7 @@
 - **Other Tools**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,grafana,arch,figma,tensorflow,webstorm,ubuntu,xd,idea,md,regex,vscode,bash,postman,linux" />
+      <img src="https://skillicons.dev/icons?i=git,grafana,arch,figma,tensorflow,webstorm,ubuntu,xd,idea,md,regex,vscode,bash,postman,linux" />
     </a>
   </p>
 
