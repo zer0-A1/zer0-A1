@@ -17,19 +17,6 @@
 
 
 
-<h2 align="left"><img src="https://media.tenor.com/Wg9fW_XEft0AAAAM/pout-christian-bale.gif" width="28"> About Me</h2>
-
-<div style="display: flex;  flex-direction: row; justify-content: center; align-items: center;">
-   <h1 align="center" >
-      <a href="" style="color: blue; font-size:25px; text-decoration: none;" 
-      onmouseover="this.style.textDecoration='underline'" 
-      onmouseout="this.style.textDecoration='none'">
-       <b>AI Engineer | Fullstack Developer</b>
-      </a>
-   </h1> 
-</div>
-<br>
-
 ### 💎 ABOUT ME
 
 - **Open to work on position:** Senior AI developer
