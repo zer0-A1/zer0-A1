@@ -18,17 +18,41 @@
 
 
 <h2 align="left"><img src="https://media.tenor.com/Wg9fW_XEft0AAAAM/pout-christian-bale.gif" width="28"> About Me</h2>
-<p>Distinguished AI/ML Engineer and Full-Stack Architect with 8+ years of expertise spanning artificial intelligence,
-machine learning, data engineering, and full-stack development across web and mobile platforms. Proven track record of
-architecting and deploying production-grade AIsystemsthat process petabytes of data, building intelligent automation
-solutions, and creating scalable applications used by millions. Specialized in bridging the gap between cutting-edge AI
-research and practical business applicationsthrough end-to-end product development—from data pipeline architecture
-and deep learning model development to intuitive UI/UX implementation. Expert in transforming complex technical
-challengesinto elegant, high-performance solutionsthat deliver measurable ROI.
-Core Competencies: AI/ML Model Development & Deployment | NLP & Computer Vision | AI Agents & Automation |
-Predictive Analytics| Full-Stack Web Development | Cross-Platform Mobile Apps(iOS/Android) | MLOps & Data Pipeline
-Engineering | Microservices Architecture | Cloud Infrastructure (AWS/GCP/Azure)
-</p>
+
+<div style="display: flex;  flex-direction: row; justify-content: center; align-items: center;">
+   <h1 align="center" >
+      <a href="" style="color: blue; font-size:25px; text-decoration: none;" 
+      onmouseover="this.style.textDecoration='underline'" 
+      onmouseout="this.style.textDecoration='none'">
+       <b>AI Engineer | Fullstack Developer</b>
+      </a>
+   </h1> 
+</div>
+<br>
+
+### 💎 ABOUT ME
+
+- **Open to work on position:** Senior AI developer
+- **Interested in:** Data science, AI Models, 
+- **Hobby:** Reading Book, Football, Swimming
+  
+<!--- 
+### 🌐 Connect with me:  
+- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/softlight1012) - @softlight1012
+- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/vhUyzmWz) - polygon118
+- [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white)](skype:live:.cid.16dac497b946b44b?chat) - live:.cid.16dac497b946b44b
+- [![Email](https://img.shields.io/badge/Email-mailto%3Aruka59171%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:ruka59171@gmail.com)
+
+-->
+
+### 🤷‍♂️ What I can do
+- <b>ML model</b> ( Algorithmic Trading, Fraud Detection )
+- <b>Chatbot and Virtual Assistants</b> (experienced no-code chatbot builder)
+- <b>NLP</b> ( text analysis )
+- <b>Automation</b> (n8n, Zapier, make.com, crew)
+- <b>Computer Vision</b> ( OpenCV, object detection, face recognition, image & video processing)
+- <b>Generative AI</b>
+- <b>Web project</b> (MERN, Next, Django, FastAPI, GraphQL, Web3, Webflow, Wordpress)
 <!-- - 🌐 Check out my website: [m4rkyu.com](https://m4rkyu.com) -->
 
 
