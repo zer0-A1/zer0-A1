@@ -3,7 +3,7 @@
       alt="example" />
   </p>
 <h1 align="center">
-  👍Hello, I'm Taro Akame.
+  👍Hello, I'm Taro Shibusawa.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   <img src="https://komarev.com/ghpvc/?username=zhenxiao-yu&label=Profile%20Views&color=0e75b6&style=flat" alt="zhenxiao-yu" /> 
 </h1>
@@ -19,7 +19,7 @@
 <details>
 <summary><h2 align="left"><img src="https://media.tenor.com/Wg9fW_XEft0AAAAM/pout-christian-bale.gif" width="28"> About Me</h2></summary>
 
-- 🎓 Class of 2024 @[Okayama University](2016 ~ 2020)
+- 🎓 Class of 2024 @[The University of Tokyo](2014 ~ 2018)
 - 🌱 Currently learning **Rust, SAP BTP, and Azure**
 - 📌 🧧 CGQ > 🌾 YQR > 🌆 YYZ
 - 🚀 Ask me about **Java, React, NodeJS, AI agent & chatbot, ML and Recommendation System**
