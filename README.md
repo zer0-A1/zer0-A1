@@ -18,13 +18,17 @@
 
 
 <h2 align="left"><img src="https://media.tenor.com/Wg9fW_XEft0AAAAM/pout-christian-bale.gif" width="28"> About Me</h2>
-- 🎓 Class of 2018 @[The University of Tokyo](2014 ~ 2018)
-- 🌱 Currently learning **Rust, SAP BTP, Azure, and AI/ML technologies**
-- 📌 🧧 CGQ > 🌾 YQR > 🌆 YYZ
-- 🚀 Ask me about **Java, React, NodeJS, AI agent & chatbot, ML and Recommendation System**
-- 📫 How to reach me: **tarose.cs0112@outlook.com**
-- 💼 LinkedIn: **[Taro Shibusawa](https://www.linkedin.com/in/taro-shibusawa-76378b382/)**
-- 🎯 Passionate about **building scalable applications and exploring AI/ML solutions**
+<p>Distinguished AI/ML Engineer and Full-Stack Architect with 8+ years of expertise spanning artificial intelligence,
+machine learning, data engineering, and full-stack development across web and mobile platforms. Proven track record of
+architecting and deploying production-grade AIsystemsthat process petabytes of data, building intelligent automation
+solutions, and creating scalable applications used by millions. Specialized in bridging the gap between cutting-edge AI
+research and practical business applicationsthrough end-to-end product development—from data pipeline architecture
+and deep learning model development to intuitive UI/UX implementation. Expert in transforming complex technical
+challengesinto elegant, high-performance solutionsthat deliver measurable ROI.
+Core Competencies: AI/ML Model Development & Deployment | NLP & Computer Vision | AI Agents & Automation |
+Predictive Analytics| Full-Stack Web Development | Cross-Platform Mobile Apps(iOS/Android) | MLOps & Data Pipeline
+Engineering | Microservices Architecture | Cloud Infrastructure (AWS/GCP/Azure)
+</p>
 <!-- - 🌐 Check out my website: [m4rkyu.com](https://m4rkyu.com) -->
 
 
@@ -75,15 +79,6 @@
     </a>
   </p>
 
-
-<h2 align="left">🏆 My Trophies</h2>
-
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjYxeWVhOHRlbDJ4eTZuYTBramdwY2pwd3Azd2F3b2RweHUzb2wzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Exc9GvjitUCPczepZe/giphy.gif"  width="100px" height="100px"></p>			
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=taroshibusawa&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews"> </div>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=taroshibusawa&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
 
 
 
