@@ -5,7 +5,7 @@
 <h1 align="center">
   👍Hello, I'm Taro Shibusawa.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <img src="https://komarev.com/ghpvc/?username=zhenxiao-yu&label=Profile%20Views&color=0e75b6&style=flat" alt="zhenxiao-yu" /> 
+  <img src="https://komarev.com/ghpvc/?username=taroshibusawa&label=Profile%20Views&color=0e75b6&style=flat" alt="taroshibusawa" /> 
 </h1>
 
 <div align="center">
@@ -16,26 +16,27 @@
 </div>
 
 
-<details>
-<summary><h2 align="left"><img src="https://media.tenor.com/Wg9fW_XEft0AAAAM/pout-christian-bale.gif" width="28"> About Me</h2></summary>
 
-- 🎓 Class of 2024 @[The University of Tokyo](2014 ~ 2018)
-- 🌱 Currently learning **Rust, SAP BTP, and Azure**
+<h2 align="left"><img src="https://media.tenor.com/Wg9fW_XEft0AAAAM/pout-christian-bale.gif" width="28"> About Me</h2>
+- 🎓 Class of 2018 @[The University of Tokyo](2014 ~ 2018)
+- 🌱 Currently learning **Rust, SAP BTP, Azure, and AI/ML technologies**
 - 📌 🧧 CGQ > 🌾 YQR > 🌆 YYZ
 - 🚀 Ask me about **Java, React, NodeJS, AI agent & chatbot, ML and Recommendation System**
-- 📫 How to reach me: **taroakame.0924@gmail.com**
+- 📫 How to reach me: **tarose.cs0112@outlook.com**
+- 💼 LinkedIn: **[Taro Shibusawa](https://www.linkedin.com/in/taro-shibusawa-76378b382/)**
+- 🎯 Passionate about **building scalable applications and exploring AI/ML solutions**
 <!-- - 🌐 Check out my website: [m4rkyu.com](https://m4rkyu.com) -->
 
 
-</details>
 
-<details>
-<summary><h2 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18> Languages and Tools</h2></summary>
+
+
+<h2 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18> Languages and Tools</h2>
 
 - **Backend**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=express,java,nodejs,py,spring,fastapi,nestjs,kafka,solidity" />
+      <img src="https://skillicons.dev/icons?i=express,java,nodejs,py,spring,fastapi,nestjs,kafka,solidity,rust,go" />
     </a>
   </p>
 
@@ -56,7 +57,7 @@
 - **DevOps & CI/CD**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,vercel,azure,gitlab,gcp,firebase,heroku,kubernetes,jenkins,nginx,netlify,githubactions" />
+      <img src="https://skillicons.dev/icons?i=docker,vercel,azure,gitlab,gcp,firebase,heroku,kubernetes,jenkins,nginx,netlify,githubactions,terraform,ansible" />
     </a>
   </p>
 
@@ -70,23 +71,19 @@
 - **Other Tools**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,grafana,arch,figma,tensorflow,webstorm,ubuntu,xd,idea,md,regex,vscode,bash,postman,linux" />
+      <img src="https://skillicons.dev/icons?i=git,grafana,arch,figma,tensorflow,webstorm,ubuntu,xd,idea,md,regex,vscode,bash,postman,linux,pytorch,jupyter" />
     </a>
   </p>
 
-</details>
 
-<details>
-<summary><h2 align="left">🏆 My Trophies</h2></summary>
+<h2 align="left">🏆 My Trophies</h2>
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjYxeWVhOHRlbDJ4eTZuYTBramdwY2pwd3Azd2F3b2RweHUzb2wzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Exc9GvjitUCPczepZe/giphy.gif"  width="100px" height="100px"></p>			
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=zhenxiao-yu&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews"> </div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=taroshibusawa&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews"> </div>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zhenxiao-yu&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+<img src="https://github-profile-trophy.vercel.app/?username=taroshibusawa&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
-
-</details>
 
 
 
