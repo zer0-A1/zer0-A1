@@ -1,19 +1,9 @@
- <p align="center">
-    <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-      alt="example" />
-  </p>
+
 <h1 align="center">
   👍Hello, I'm Taro Shibusawa.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   <img src="https://komarev.com/ghpvc/?username=taroshibusawa&label=Profile%20Views&color=0e75b6&style=flat" alt="taroshibusawa" /> 
 </h1>
-
-<div align="center">
-   <h5>🎵 Listening to...</h2>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=317xma3mkahx2sgwksrv72bvlywm&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317xma3mkahx2sgwksrv72bvlywm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=8b37c3&bar_color_cover=false" alt="Spotify Now Playing">
-  </a>
-</div>
 
 
 
